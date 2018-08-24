@@ -5,4 +5,4 @@ This is the pinteresting sample application for
 
 by [Mattan Griffel](http://mattangriffel.com)
 
-- this is just a message from me [nickshak](http://bigassmessage.com/ab4fe)
+- this is just a message from me [nickshak](http://bigassmessage.com/cff67)
